@@ -1,5 +1,5 @@
 import scipy.io.wavfile as wavfile
-import numpy as nap
+import numpy as np
 
 def read_wav(file_path):
     """
